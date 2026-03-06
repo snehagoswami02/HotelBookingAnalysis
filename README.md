@@ -114,15 +114,6 @@ Booking trends fluctuate depending on time of year.
 
 Data visualization helps identify opportunities to improve revenue management.
 
-📁 Project Structure
-Analysis-Of-Hotel-Booking-Data
-│
-├── hotel_revenue_historical_Dataset.xlsx
-├── Hotel_Booking_Analysis.sql
-├── Hotels_Booking_Analysis_Dashboard.pbix
-└── README.md
-🚀 How to Run the Project
-
 Download the dataset from the repository.
 
 Import the dataset into SQL Server.
@@ -150,6 +141,9 @@ Data Visualization
 KPI Development
 
 Dashboard Design using Power BI
+<img width="1375" height="782" alt="image" src="https://github.com/user-attachments/assets/d559921a-2a73-4ddf-bb07-7449e338cde5" />
+
+
 
 🔮 Future Improvements
 
